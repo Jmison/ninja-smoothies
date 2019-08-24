@@ -1,6 +1,6 @@
 # ninja-smoothies
 
-> A Vue.js project
+> Front-End Web-App implemented in VueJS, back-end implemented using firebase, using hosting and firestore. Implemented on click handlers to push to db collection when user enters new data. Fetch from db for up to date information on each page load using lifecycle hooks.
 
 ## Build Setup
 
